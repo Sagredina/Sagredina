@@ -1,3 +1,4 @@
 <p align="center">
-![bongo-cat-codes](https://user-images.githubusercontent.com/98088644/177755226-80f9f0d6-3c02-4d04-b3d8-4975e123416e.gif)
+  <img width="460" height="300" src="https://c.tenor.com/DBqjevyA2o4AAAAC/bongo-cat-codes.gif%22%3E
 </p>
+
